@@ -1,0 +1,5 @@
+venv
+datas
+__pycache__
+.env
+logs

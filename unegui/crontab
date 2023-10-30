@@ -1,0 +1,1 @@
+50 23 * * * cd /app && python ./main.py >> /logfile
